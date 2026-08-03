@@ -26,12 +26,12 @@ module.exports = {
         langs: {
                 bn: {
                         usage: "• ব্যবহার পদ্ধতি: buttslap @মেনশন করুন বা কারো মেসেজে রিপ্লাই দিন।",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact protik %1",
                         success: "Effect: buttslap successful"
                 },
                 en: {
                         usage: "• Usage: buttslap @mention or reply to a message.",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact protik %1",
                         success: "Effect: buttslap successful"
                 },
                 vi: {
