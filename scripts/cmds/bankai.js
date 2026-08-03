@@ -32,12 +32,12 @@ module.exports = {
                 bn: {
                         noVideo: "× কোনো ভিডিও খুঁজে পাওয়া যায়নি! 🗡️",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐁𝐀𝐍𝐊𝐀𝐈 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে:"
                 },
                 en: {
                         noVideo: "× No videos found! 🗡️",
                         success: "𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐁𝐀𝐍𝐊𝐀𝐈 𝐯𝐢𝐝𝐞𝐨 𝐛𝐚𝐛𝐲 <😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact protik for help."
                 },
                 vi: {
                         noVideo: "× Không tìm thấy video nào! 🗡️",
