@@ -1,5 +1,5 @@
 {
-  "name": "hinata-bot-v3",
+  "name": "DI ABLO II-bot-v3",
   "version": "1.6.1",
   "description": "A simple Bot chat messenger using personal account.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "axios": "^1.12.2",
-    "mahmud-fca": "^2.0.7",
+    "ProtiK-fca": "^2.0.7",
     "bcrypt": "^5.0.1",
     "canvas": "^3.2.0",
     "@napi-rs/canvas": "^0.1.80",
@@ -77,15 +77,15 @@
     "dev": "set NODE_ENV=development&& node index.js",
     "prod": "set NODE_ENV=production&& node index.js"
   },
-  "author": "MahMUD",
+  "author": "ProtiK",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahmudx7/Hinata-Bot-v3.git"
+    "url": "cholo ghure ashi"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/mahmudx7/Hinata-Bot-v3/issues"
+    "url": "asho kheye di"
   },
-  "homepage": "https://github.com/mahmudx7/Hinata-Bot-v3#readme"
+  "homepage": "ki dhektecho"
 }
